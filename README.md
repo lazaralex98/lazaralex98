@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @lazaralex98.
-- 👀 I’m interested in building cool stuff, learning new things & working remote and async.
-- 🌱 I’m currently in a position where I learn new tech as it becomes relevant to my projects.
+- 👋 Hi, I’m Alex.
+- 👀 I’m interested in web3 & de-fi.
 - 📫 I can be reached out at on twitter @SaxeMauricede.
 
 <!---
