@@ -1,6 +1,4 @@
 - 👋 Hi, I’m Alex.
-- 👨🏻‍💻 I love TS & Next.js, but I'm very adaptable.
-- 👀 I’m interested in web3 & de-fi.
 - 📫 I can be reached out at on twitter @SaxeMauricede.
 
 <!---
